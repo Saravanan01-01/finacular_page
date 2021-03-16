@@ -1,0 +1,30 @@
+.baricon{
+    margin-left: 70%;
+    padding:10px;
+    justify-content:space-between;
+  }
+  #aa{
+    color: black;
+    margin-right: 5px;
+  }
+  #noti{
+    color:black;
+    margin-left: 20px;
+  }
+  #act{
+    color:black;
+    margin-left:  20px;
+    
+  }
+  #name{
+    margin-left: 10px;
+    color: black;
+  }
+ .user{
+     margin-top: 110%;
+ }
+ #avatar{
+     float: left;
+ }
+
+ 

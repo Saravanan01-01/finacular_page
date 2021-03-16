@@ -1,0 +1,13 @@
+.App{
+    float: left;
+    margin: 3%;
+    height: 200px;
+    width: 25%;
+    border: 2px black solid;
+}
+.App-img{
+    margin-left: 10%;
+}
+.App-head{
+    text-align: center;
+}

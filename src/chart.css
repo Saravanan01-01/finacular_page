@@ -1,0 +1,26 @@
+
+.Main{
+    width: 80%;
+    margin-right: 0;
+    float: left;
+}
+.sub-main{
+   
+    padding: 30px;
+    
+}
+.toggle{
+    padding-left:80%;
+    width: 30px;
+}
+
+.chartt
+{
+    float: left;
+}
+
+
+#input_text{
+    border: none;
+    background-color: darkgray;
+}
